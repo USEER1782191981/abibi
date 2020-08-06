@@ -1,4 +1,4 @@
-local Passwords = {"2121","1923","staff1","3332","2010"} 
+local Passwords = {"2121","7802","staff1","3332","2010"} 
 local Menu = gg.prompt({"Key :"},nil,{"text"})
 if not Menu then return end
 for l , I in pairs(Passwords) do
